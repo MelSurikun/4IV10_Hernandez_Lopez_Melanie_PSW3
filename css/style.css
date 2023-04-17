@@ -1,0 +1,49 @@
+*{
+    padding: 3px;
+    margin: 20px;
+    background-image: url("./imagen/fondodoprincipal.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.colorlink{
+    color: #989cb4;
+}
+
+.colorlinkdos{
+    color: #787c8c;
+}
+
+.colorlinktres{
+    color: #c5d3aa;
+}
+
+.colorlinkcuatro{
+    color: #687c54;
+}
+
+.colorlinkcinco{
+    color:#c8acdc;
+}
+
+.colorlinkseis{
+    color: #9265b4;
+}
+
+.colorlinksiete{
+    color: #a7995f;
+}
+
+.colorlinksieteu{
+    color: #7c6521;
+}
+
+.colorlinkocho{
+    color: rgb(105, 101, 101);
+}
+
+.colorlinkexa{
+    color: black;
+}
